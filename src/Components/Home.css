@@ -1,0 +1,162 @@
+/* body{
+    background-color: #D1D7E0;
+ 
+   
+}
+
+.container
+{
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+  gap:10px;
+}
+
+@media only screen and (max-width:600px)
+{
+
+}
+@media only screen and (max-width:600px) and (max-width:900px)
+{
+
+}
+@media only screen and (min-width:900px)
+{
+
+}
+
+
+
+
+.navbar
+
+{
+    display: flex;
+    background-color: #1D2127;
+    height: 60px;
+    text-align: center;
+   
+}
+ 
+ 
+.menu-bars
+{
+    margin-left: 2rem;
+    font-size: 2rem;
+    background: none;
+     color: #D1D7E0;
+   
+ 
+}
+ 
+.nav-menu
+{
+    background-color: #1D2127;
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    transition: 850ms;
+    left: -100%;
+}
+ 
+.nav-menu-active
+{
+    left: 0;
+    transition: 350ms;
+}
+ 
+.nav-text
+{
+    display: flex;
+    align-items: center;
+    padding: 8px 0px 8px 16px ;
+    list-style:none;
+    height: 60px;
+    text-decoration: none;
+    color: #AAAEB6;
+    font-size: 19px;
+    list-style: none;
+    list-style: none;
+    gap: 20px;
+}
+ 
+.nav-textmark
+{
+    display: flex;
+    align-items: center;
+    padding: 8px 0px 8px 16px ;
+    list-style:none;
+    height: 60px;
+    text-decoration: none;
+    color:#AAAEB6;
+    font-size: 25px;
+    list-style: none;  
+    gap: 20px;
+ 
+}
+   
+   
+ 
+.nav-text :hover
+{
+    background-color: rgb(165, 165, 210);
+   
+}
+ 
+.nav-menu-items
+{
+    width: 100%;
+ 
+}
+ 
+.navbsr-toggle
+{
+    background: #1D2127;
+ 
+   
+}
+ 
+ 
+.nav-menu-items
+{
+    background-color: #1D2127;
+    height: 100vh;
+    width: 250px;
+    position: fixed;
+    list-style: none;
+    transition: 800ms;
+    margin: 0px;
+ 
+}
+ 
+ 
+.header-container
+{
+    background-color:#1D2127;
+    margin: 0px;
+    display: flex;
+    height: 50px;
+    font-size: 30px;
+    justify-content: center;
+    text-decoration: none;
+    color: #D1D7E0;
+    font-weight: 600;
+    overflow: hidden;
+    text-transform: uppercase;
+}
+.body-container
+{
+    background-color:#D1D7E0;
+    height: 100vh;
+    width: 100%;
+} */
+
+
+.product-container
+{
+    display: flex;
+    margin-top: 80px;
+    flex-direction: row;
+   column-gap: 15px;
+}

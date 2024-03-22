@@ -1,0 +1,16 @@
+.card-img{
+    width: auto;
+    height: 35vh;
+}
+h1{
+    text-align: center;
+}
+.cart-container
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+    margin: 80px;
+    
+}
